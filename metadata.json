@@ -1,0 +1,5 @@
+{
+  "name": "APBDes Banner Generator",
+  "description": "An application to manage village budget (APBDes) data and generate beautiful, print-ready banners for both initial and revised budgets.",
+  "requestFramePermissions": []
+}
